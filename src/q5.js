@@ -6,7 +6,7 @@ function abreviar(nome){
 
         let nomeprincipal= separar[0];// o primerio elemento do array, no caso o primeiro nome
         
-        let sobrenome = separar[1][0];// pega o 
+        let sobrenome = separar[1][0];// pega o NOME
         
         return `${nomeprincipal} ${sobrenome}.`;
         //retorna o primeiro nome, seguido da inicial do sobrenome e um ponto
