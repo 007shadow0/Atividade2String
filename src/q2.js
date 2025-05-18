@@ -11,7 +11,7 @@ function verstring(valor){
 
         return "Está em branco";
     }
-    else{ // Caso não tenha sido nenhum dos anteriores, significa que exibirá que não está vazia
+    else{ // Caso não tenha sido nenhum dos anteriores, significa que exibirá que não está vazia 
         return "Não está vazia";
     }
 }
