@@ -2,6 +2,7 @@ function abreviar(nome){
     let separar= nome.split(' ');
     //divide o string "nome" em um array usando o o metodo .split
     //separa devido o .split('')
+    
     if (separar.length>= 2){// verifica se o array tem dois elementos, no caso o nome e o sobrenome
 
         let nomeprincipal= separar[0];// o primerio elemento do array, no caso o primeiro nome
