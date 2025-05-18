@@ -1,9 +1,9 @@
-// o typeof verifica e retorna o tipo da variável
+// O typeof verifica e retorna o tipo da variável
 function verificarsestring(valor){ 
-    //irá definir um parametro
+    // Irá definir um parametro
     return typeof valor === "string";
-    // aqui irá verificar se o valor fornecido ée um tipo string.
-    //Caso seja uma string, retorna "true" e caso não seja, retorna "false"
+    // Aqui irá verificar se o valor fornecido ée um tipo string.
+    // Caso seja uma string, retorna "true" e caso não seja, retorna "false"
 }
 console.log(verificarsestring("JavaScript")) //true
 console.log(verificarsestring(1,2,3)) //false
