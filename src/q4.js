@@ -3,7 +3,7 @@ function cortar(palavras, quantidadecaracter){
     // "palavra" é a string que será cortada
     // "quantidadecaracter" se´r a aqunatidade que será mantida
     return palavras.slice(0, quantidadecaracter);
-    //o metrodo .slice irá cortar uma parte da string
+    //O metrodo .slice irá cortar uma parte da string
     // A quantidade cortada, mas se´r até um valor anterior ao dele já que o indice inicial é o zero"
 }
 
