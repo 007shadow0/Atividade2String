@@ -14,6 +14,6 @@ Atividade2String/
 │   ├── q3.js
 │   ├── q4.js
 │   └── q5.js
-├── index.html
-└── README.md
+├── README.md
+└── index.html
 ```
